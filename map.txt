@@ -1,0 +1,913 @@
+Modules list:
+-------------
+main.o:
+    CODE              Offs=000000  Size=00090C  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=0007AD  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=002002  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(_cursor.o):
+    CODE              Offs=00090C  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(addeqsp.o):
+    CODE              Offs=00090C  Size=000011  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(addysp.o):
+    CODE              Offs=00091D  Size=00000E  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(aslax3.o):
+    CODE              Offs=00092B  Size=00000E  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(aslax4.o):
+    CODE              Offs=000939  Size=000011  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(asr.o):
+    CODE              Offs=00094A  Size=00003C  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(callmain.o):
+    CODE              Offs=000986  Size=000017  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002002  Size=000004  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(cgetc.o):
+    CODE              Offs=00099D  Size=00002D  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002006  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(condes.o):
+    CODE              Offs=0009CA  Size=00000C  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002006  Size=000025  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(cputc.o):
+    CODE              Offs=0009D6  Size=00005B  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202B  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=000007  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(crt0.o):
+    CODE              Offs=000A31  Size=000012  Align=00001  Fill=0000
+    RODATA            Offs=0007AD  Size=000007  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202B  Size=000003  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=000034  Align=00001  Fill=0000
+    ONCE              Offs=000013  Size=00006A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001D  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(decaxy.o):
+    CODE              Offs=000A43  Size=000009  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(decsp1.o):
+    CODE              Offs=000A4C  Size=000009  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(decsp2.o):
+    CODE              Offs=000A55  Size=00000D  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(div.o):
+    CODE              Offs=000A62  Size=000015  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(exehdr.o):
+    CODE              Offs=000A77  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    EXEHDR            Offs=000000  Size=00003A  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(gotoxy.o):
+    CODE              Offs=000A77  Size=000011  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(icmp.o):
+    CODE              Offs=000A88  Size=00002E  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incax5.o):
+    CODE              Offs=000AB6  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incaxy.o):
+    CODE              Offs=000ABB  Size=00000B  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp1.o):
+    CODE              Offs=000AC6  Size=000007  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp2.o):
+    CODE              Offs=000ACD  Size=000015  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp3.o):
+    CODE              Offs=000AE2  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp4.o):
+    CODE              Offs=000AE7  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp5.o):
+    CODE              Offs=000AEC  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp6.o):
+    CODE              Offs=000AF1  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(incsp8.o):
+    CODE              Offs=000AF6  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(kbhit.o):
+    CODE              Offs=000AFB  Size=000009  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(ldaxi.o):
+    CODE              Offs=000B04  Size=00000D  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(ldaxsp.o):
+    CODE              Offs=000B11  Size=000009  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(memcpy.o):
+    CODE              Offs=000B1A  Size=00003C  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(memset.o):
+    CODE              Offs=000B56  Size=00005D  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(mod.o):
+    CODE              Offs=000BB3  Size=000011  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(negabs.o):
+    CODE              Offs=000BC4  Size=000012  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(or.o):
+    CODE              Offs=000BD6  Size=000011  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(popa.o):
+    CODE              Offs=000BE7  Size=00000A  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(popptr1.o):
+    CODE              Offs=000BF1  Size=00000E  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(pusha.o):
+    CODE              Offs=000BFF  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(pushax.o):
+    CODE              Offs=000C15  Size=00001A  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(pushwsp.o):
+    CODE              Offs=000C2F  Size=00001C  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(rand.o):
+    CODE              Offs=000C4B  Size=000034  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00202E  Size=000004  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(shelp.o):
+    CODE              Offs=000C7F  Size=000020  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(shl.o):
+    CODE              Offs=000C9F  Size=000030  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(staxsp.o):
+    CODE              Offs=000CCF  Size=00000B  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(subeqsp.o):
+    CODE              Offs=000CDA  Size=000015  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(subysp.o):
+    CODE              Offs=000CEF  Size=00000D  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(udiv.o):
+    CODE              Offs=000CFC  Size=00004F  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(vtabz.o):
+    CODE              Offs=000D4B  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    LOWCODE           Offs=000000  Size=00000A  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(zerobss.o):
+    CODE              Offs=000D4B  Size=000023  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/home/rax/Programs/cc65/lib/apple2enh.lib(zeropage.o):
+    CODE              Offs=000D6E  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=0007B4  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=002032  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+NULL                  000000  000000  000000  00001
+ZEROPAGE              000080  000099  00001A  00001
+EXEHDR                003FC6  003FFF  00003A  00001
+STARTUP               004000  004033  000034  00001
+LOWCODE               004034  00403D  00000A  00001
+CODE                  00403E  004DAB  000D6E  00001
+RODATA                004DAC  00555F  0007B4  00001
+DATA                  005560  007591  002032  00001
+INIT                  007592  0075AE  00001D  00001
+BSS                   0075AF  0075AF  000001  00001
+ONCE                  0075AF  00762D  00007F  00001
+
+
+Exports list by name:
+---------------------
+VTABZ                     004034 RLA    _BIT7                     00512C  LA    
+_DIV7                     004F2C  LA    _MOD7                     00502C  LA    
+__BSS_LOAD__              0075AF  LA    __BSS_RUN__               0075AF RLA    
+__BSS_SIZE__              000001 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__CONSTRUCTOR_TABLE__     00762C RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      005560 RLA    __EXEHDR__                000001 REA    
+__FILETYPE__              000006 REA    __HIMEM__                 009600 REA    
+__LCADDR__                00D400 REA    __LCSIZE__                000C00 REA    
+__LC_FILEOFFS__           000000  EA    __LC_LAST__               00D400 RLA    
+__LC_SIZE__               000C00  EA    __LC_START__              00D400 RLA    
+__MAIN_FILEOFFS__         00003A  EA    __MAIN_LAST__             00762E RLA    
+__MAIN_SIZE__             005600  EA    __MAIN_START__            004000 RLA    
+__ONCE_LOAD__             0075AF RLA    __ONCE_RUN__              0075AF RLA    
+__ONCE_SIZE__             00007F REA    __STACKSIZE__             000800 REA    
+__STARTUP__               000001 REA    __ZP_FILEOFFS__           000000  EA    
+__ZP_LAST__               00009A  LA    __ZP_SIZE__               00001A  EA    
+__ZP_START__              000080  LA    __argc                    007562  LA    
+__argv                    007564  LA    __bzero                   004B94 RLA    
+_abs                      004C02  LA    _bzero                    004B94  LA    
+_cgetc                    0049DB RLA    _clear_sprite             0043C0  LA    
+_cputc                    004A19  LA    _cputcxy                  004A14  LA    
+_draw_char                004470  LA    _draw_sprite              004366  LA    
+_draw_string              004543  LA    _erase_sprite             0043A2  LA    
+_exit                     00400C  LA    _font8x8                  005133  LA    
+_gotox                    004AC3  LA    _gotoxy                   004AB8  LA    
+_hgr                      0040C9  LA    _introText                004598  LA    
+_kbhit                    004B39 RLA    _key                      00403E  LA    
+_landing_bitmap           00544F  LA    _lem_bitmap               005433  LA    
+_main                     004661 RLA    _memcpy                   004B58 RLA    
+_memset                   004B9C  LA    _rand                     004C95 RLA    
+_render_sprite            00417A  LA    _srand                    004C89 RLA    
+_src_bg_bin               005560  LA    _src_bg_bin_len           007560  LA    
+_tone                     00408C  LA    _wait                     004057  LA    
+_xor_pixel                00415F  LA    _xor_sprite               004384  LA    
+_xor_vline                0040DF  LA    addeq0sp                  00494A  LA    
+addeqysp                  00494C RLA    addysp                    00495C RLA    
+addysp1                   00495B RLA    aslax3                    004969 RLA    
+aslax4                    004977 RLA    aslaxy                    004CE4 RLA    
+asraxy                    00498F RLA    callmain                  0049C4 RLA    
+condes                    007566  LA    cputdirect                004A23  LA    
+cursor                    0075AF RLA    decaxy                    004A81 RLA    
+decsp1                    004A8A RLA    decsp2                    004A93 RLA    
+done                      00758B  LA    donelib                   004A08 RLA    
+gotoxy                    004AB5 RLA    incax4                    004AF9  LA    
+incax5                    004AF4 RLA    incaxy                    004AFB RLA    
+incsp1                    004B04 RLA    incsp2                    004B12 RLA    
+incsp3                    004B20 RLA    incsp4                    004B25 RLA    
+incsp5                    004B2A RLA    incsp6                    004B2F RLA    
+incsp8                    004B34 RLA    initconio                 0075BB  LAI   
+initlib                   0075AF RLA    ldax0sp                   004B4F RLA    
+ldaxi                     004B42 RLA    ldaxidx                   004B44  LA    
+ldaxysp                   004B51 RLA    memcpy_getparams          004B81  LA    
+memcpy_upwards            004B5B  LA    negax                     004C06 RLA    
+newline                   004A36  LA    popa                      004C25 RLA    
+popax                     004B0B RLA    popptr1                   004C2F RLA    
+popsargsudiv16            004CBD RLA    ptr1                      000088 RLZ    
+ptr2                      00008A RLZ    ptr3                      00008C RLZ    
+ptr4                      00008E RLZ    push0                     004C53  LA    
+pusha                     004C41 RLA    pusha0                    004C55 RLA    
+pusha0sp                  004C3D  LA    pushax                    004C57 RLA    
+pushaysp                  004C3F  LA    pushw0sp                  004C6D  LA    
+pushwysp                  004C6F RLA    putchar                   004A45  LA    
+putchardirect             004A55 RLA    regbank                   000094  LZ    
+regsave                   000084 RLZ    return                    004A7A  LA    
+shlax3                    004969  LA    shlax4                    004977  LA    
+shlaxy                    004CE4  LA    sp                        000080 RLZ    
+sreg                      000082 RLZ    stax0sp                   004D0D RLA    
+staxysp                   004D0F RLA    subeq0sp                  004D18  LA    
+subeqysp                  004D1A RLA    subysp                    004D2D RLA    
+tmp1                      000090 RLZ    tmp2                      000091 RLZ    
+tmp3                      000092  LZ    tmp4                      000093  LZ    
+tosaslax                  004CDD  LA    tosasrax                  004988  LA    
+tosdiva0                  004AA0 RLA    tosdivax                  004AA2  LA    
+tosicmp                   004AC8 RLA    tosicmp0                  004AC6 RLA    
+tosmoda0                  004BF1 RLA    tosmodax                  004BF3  LA    
+tosora0                   004C14 RLA    tosorax                   004C16  LA    
+tosshlax                  004CDD  LA    tosudiva0                 004D3A  LA    
+tosudivax                 004D3C  LA    udiv16                    004D4B RLA    
+zerobss                   004D89 RLA    
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000000 REA    __LC_FILEOFFS__           000000  EA    
+__ZP_FILEOFFS__           000000  EA    __BSS_SIZE__              000001 REA    
+__CONSTRUCTOR_COUNT__     000001 REA    __EXEHDR__                000001 REA    
+__STARTUP__               000001 REA    __FILETYPE__              000006 REA    
+__ZP_SIZE__               00001A  EA    __MAIN_FILEOFFS__         00003A  EA    
+__ONCE_SIZE__             00007F REA    __ZP_START__              000080  LA    
+sp                        000080 RLZ    sreg                      000082 RLZ    
+regsave                   000084 RLZ    ptr1                      000088 RLZ    
+ptr2                      00008A RLZ    ptr3                      00008C RLZ    
+ptr4                      00008E RLZ    tmp1                      000090 RLZ    
+tmp2                      000091 RLZ    tmp3                      000092  LZ    
+tmp4                      000093  LZ    regbank                   000094  LZ    
+__ZP_LAST__               00009A  LA    __STACKSIZE__             000800 REA    
+__LCSIZE__                000C00 REA    __LC_SIZE__               000C00  EA    
+__MAIN_START__            004000 RLA    _exit                     00400C  LA    
+VTABZ                     004034 RLA    _key                      00403E  LA    
+_wait                     004057  LA    _tone                     00408C  LA    
+_hgr                      0040C9  LA    _xor_vline                0040DF  LA    
+_xor_pixel                00415F  LA    _render_sprite            00417A  LA    
+_draw_sprite              004366  LA    _xor_sprite               004384  LA    
+_erase_sprite             0043A2  LA    _clear_sprite             0043C0  LA    
+_draw_char                004470  LA    _draw_string              004543  LA    
+_introText                004598  LA    _main                     004661 RLA    
+addeq0sp                  00494A  LA    addeqysp                  00494C RLA    
+addysp1                   00495B RLA    addysp                    00495C RLA    
+aslax3                    004969 RLA    shlax3                    004969  LA    
+aslax4                    004977 RLA    shlax4                    004977  LA    
+tosasrax                  004988  LA    asraxy                    00498F RLA    
+callmain                  0049C4 RLA    _cgetc                    0049DB RLA    
+donelib                   004A08 RLA    _cputcxy                  004A14  LA    
+_cputc                    004A19  LA    cputdirect                004A23  LA    
+newline                   004A36  LA    putchar                   004A45  LA    
+putchardirect             004A55 RLA    return                    004A7A  LA    
+decaxy                    004A81 RLA    decsp1                    004A8A RLA    
+decsp2                    004A93 RLA    tosdiva0                  004AA0 RLA    
+tosdivax                  004AA2  LA    gotoxy                    004AB5 RLA    
+_gotoxy                   004AB8  LA    _gotox                    004AC3  LA    
+tosicmp0                  004AC6 RLA    tosicmp                   004AC8 RLA    
+incax5                    004AF4 RLA    incax4                    004AF9  LA    
+incaxy                    004AFB RLA    incsp1                    004B04 RLA    
+popax                     004B0B RLA    incsp2                    004B12 RLA    
+incsp3                    004B20 RLA    incsp4                    004B25 RLA    
+incsp5                    004B2A RLA    incsp6                    004B2F RLA    
+incsp8                    004B34 RLA    _kbhit                    004B39 RLA    
+ldaxi                     004B42 RLA    ldaxidx                   004B44  LA    
+ldax0sp                   004B4F RLA    ldaxysp                   004B51 RLA    
+_memcpy                   004B58 RLA    memcpy_upwards            004B5B  LA    
+memcpy_getparams          004B81  LA    __bzero                   004B94 RLA    
+_bzero                    004B94  LA    _memset                   004B9C  LA    
+tosmoda0                  004BF1 RLA    tosmodax                  004BF3  LA    
+_abs                      004C02  LA    negax                     004C06 RLA    
+tosora0                   004C14 RLA    tosorax                   004C16  LA    
+popa                      004C25 RLA    popptr1                   004C2F RLA    
+pusha0sp                  004C3D  LA    pushaysp                  004C3F  LA    
+pusha                     004C41 RLA    push0                     004C53  LA    
+pusha0                    004C55 RLA    pushax                    004C57 RLA    
+pushw0sp                  004C6D  LA    pushwysp                  004C6F RLA    
+_srand                    004C89 RLA    _rand                     004C95 RLA    
+popsargsudiv16            004CBD RLA    tosaslax                  004CDD  LA    
+tosshlax                  004CDD  LA    aslaxy                    004CE4 RLA    
+shlaxy                    004CE4  LA    stax0sp                   004D0D RLA    
+staxysp                   004D0F RLA    subeq0sp                  004D18  LA    
+subeqysp                  004D1A RLA    subysp                    004D2D RLA    
+tosudiva0                 004D3A  LA    tosudivax                 004D3C  LA    
+udiv16                    004D4B RLA    zerobss                   004D89 RLA    
+_DIV7                     004F2C  LA    _MOD7                     00502C  LA    
+_BIT7                     00512C  LA    _font8x8                  005133  LA    
+_lem_bitmap               005433  LA    _landing_bitmap           00544F  LA    
+__DESTRUCTOR_TABLE__      005560 RLA    _src_bg_bin               005560  LA    
+__MAIN_SIZE__             005600  EA    _src_bg_bin_len           007560  LA    
+__argc                    007562  LA    __argv                    007564  LA    
+condes                    007566  LA    done                      00758B  LA    
+__BSS_LOAD__              0075AF  LA    __BSS_RUN__               0075AF RLA    
+__ONCE_LOAD__             0075AF RLA    __ONCE_RUN__              0075AF RLA    
+cursor                    0075AF RLA    initlib                   0075AF RLA    
+initconio                 0075BB  LAI   __CONSTRUCTOR_TABLE__     00762C RLA    
+__MAIN_LAST__             00762E RLA    __HIMEM__                 009600 REA    
+__LCADDR__                00D400 REA    __LC_LAST__               00D400 RLA    
+__LC_START__              00D400 RLA    
+
+
+Imports list:
+-------------
+VTABZ (vtabz.o):
+    gotoxy.o                  apple2/gotoxy.s(9)
+    cputc.o                   apple2/cputc.s(13)
+_BIT7 (main.o):
+_DIV7 (main.o):
+_MOD7 (main.o):
+__BSS_LOAD__ ([linker generated]):
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(7)
+__FILETYPE__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s(9)
+__HIMEM__ ([linker generated]):
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(18)
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(17)
+__LCADDR__ ([linker generated]):
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(19)
+__LCSIZE__ ([linker generated]):
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(19)
+__LC_FILEOFFS__ ([linker generated]):
+__LC_LAST__ ([linker generated]):
+    crt0.o                    apple2/crt0.s(13)
+__LC_SIZE__ ([linker generated]):
+__LC_START__ ([linker generated]):
+    crt0.o                    apple2/crt0.s(13)
+__MAIN_FILEOFFS__ ([linker generated]):
+__MAIN_LAST__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s(10)
+__MAIN_SIZE__ ([linker generated]):
+__MAIN_START__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s(10)
+__ONCE_LOAD__ ([linker generated]):
+    crt0.o                    apple2/crt0.s(12)
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(18)
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(18)
+__ONCE_SIZE__ ([linker generated]):
+    crt0.o                    apple2/crt0.s(12)
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        /home/rax/Programs/cc65/cfg/apple2enh.cfg(18)
+__STARTUP__ (crt0.o):
+    main.o                    ./src/main.s(13)
+__ZP_FILEOFFS__ ([linker generated]):
+__ZP_LAST__ ([linker generated]):
+__ZP_SIZE__ ([linker generated]):
+__ZP_START__ ([linker generated]):
+__argc (callmain.o):
+__argv (callmain.o):
+__bzero (memset.o):
+    main.o                    ./src/main.s(11070)
+_abs (negabs.o):
+_bzero (memset.o):
+_cgetc (cgetc.o):
+    main.o                    ./src/main.s(17)
+_clear_sprite (main.o):
+_cputc (cputc.o):
+_cputcxy (cputc.o):
+_draw_char (main.o):
+_draw_sprite (main.o):
+_draw_string (main.o):
+_erase_sprite (main.o):
+_exit (crt0.o):
+_font8x8 (main.o):
+_gotox (gotoxy.o):
+_gotoxy (gotoxy.o):
+_hgr (main.o):
+_introText (main.o):
+_kbhit (kbhit.o):
+    main.o                    ./src/main.s(16)
+_key (main.o):
+_landing_bitmap (main.o):
+_lem_bitmap (main.o):
+_main (main.o):
+    callmain.o                runtime/callmain.s(11)
+_memcpy (memcpy.o):
+    main.o                    ./src/main.s(18)
+_memset (memset.o):
+_rand (rand.o):
+    main.o                    ./src/main.s(14)
+_render_sprite (main.o):
+_srand (rand.o):
+    main.o                    ./src/main.s(15)
+_src_bg_bin (main.o):
+_src_bg_bin_len (main.o):
+_tone (main.o):
+_wait (main.o):
+_xor_pixel (main.o):
+_xor_sprite (main.o):
+_xor_vline (main.o):
+addeq0sp (addeqsp.o):
+addeqysp (addeqsp.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+addysp (addysp.o):
+    incsp8.o                  runtime/incsp8.s(8)
+    incsp6.o                  runtime/incsp6.s(8)
+    incsp5.o                  runtime/incsp5.s(8)
+    incsp4.o                  runtime/incsp4.s(8)
+    incsp3.o                  runtime/incsp3.s(8)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+addysp1 (addysp.o):
+    or.o                      runtime/or.s(9)
+aslax3 (aslax3.o):
+    main.o                    ./src/main.s(11070)
+aslax4 (aslax4.o):
+    main.o                    ./src/main.s(11070)
+aslaxy (shl.o):
+    main.o                    ./src/main.s(11070)
+asraxy (asr.o):
+    main.o                    ./src/main.s(11070)
+callmain (callmain.o):
+    crt0.o                    apple2/crt0.s(11)
+condes (condes.o):
+cputdirect (cputc.o):
+cursor (_cursor.o):
+    cgetc.o                   apple2/cgetc.s(10)
+decaxy (decaxy.o):
+    main.o                    ./src/main.s(11070)
+decsp1 (decsp1.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+decsp2 (decsp2.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+done (crt0.o):
+donelib (condes.o):
+    crt0.o                    apple2/crt0.s(10)
+gotoxy (gotoxy.o):
+    cputc.o                   apple2/cputc.s(13)
+incax4 (incaxy.o):
+incax5 (incax5.o):
+    main.o                    ./src/main.s(11070)
+incaxy (incaxy.o):
+    incax5.o                  runtime/incax5.s(8)
+    main.o                    ./src/main.s(11070)
+incsp1 (incsp1.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s(8)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+incsp3 (incsp3.o):
+    main.o                    ./src/main.s(11070)
+incsp4 (incsp4.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+incsp5 (incsp5.o):
+    main.o                    ./src/main.s(11070)
+incsp6 (incsp6.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+incsp8 (incsp8.o):
+    main.o                    ./src/main.s(11070)
+initconio (cputc.o):
+initlib (condes.o):
+    crt0.o                    apple2/crt0.s(10)
+ldax0sp (ldaxsp.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+ldaxi (ldaxi.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+ldaxidx (ldaxi.o):
+ldaxysp (ldaxsp.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+memcpy_getparams (memcpy.o):
+memcpy_upwards (memcpy.o):
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s(11)
+    mod.o                     runtime/mod.s(11)
+    div.o                     runtime/div.s(11)
+newline (cputc.o):
+popa (popa.o):
+    gotoxy.o                  apple2/gotoxy.s(9)
+popax (incsp2.o):
+    shl.o                     runtime/shl.s(15)
+    shelp.o                   runtime/shelp.s(11)
+    memset.o                  common/memset.s(19)
+    memcpy.o                  common/memcpy.s(14)
+    asr.o                     runtime/asr.s(15)
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s(9)
+    memcpy.o                  common/memcpy.s(14)
+popsargsudiv16 (shelp.o):
+    mod.o                     runtime/mod.s(11)
+    div.o                     runtime/div.s(11)
+ptr1 (zeropage.o):
+    zerobss.o                 common/zerobss.s(9)
+    udiv.o                    runtime/udiv.s(10)
+    shelp.o                   runtime/shelp.s(12)
+    popptr1.o                 runtime/popptr1.s(9)
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+    ldaxi.o                   runtime/ldaxi.s(8)
+    div.o                     runtime/div.s(12)
+    main.o                    ./src/main.s(11)
+ptr2 (zeropage.o):
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+ptr3 (zeropage.o):
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s(10)
+    shelp.o                   runtime/shelp.s(12)
+push0 (pushax.o):
+pusha (pusha.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+pusha0 (pushax.o):
+    main.o                    ./src/main.s(11070)
+pusha0sp (pusha.o):
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s(11)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+pushaysp (pusha.o):
+pushw0sp (pushwsp.o):
+pushwysp (pushwsp.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+putchar (cputc.o):
+putchardirect (cputc.o):
+    cgetc.o                   apple2/cgetc.s(10)
+regbank (zeropage.o):
+regsave (zeropage.o):
+    main.o                    ./src/main.s(10)
+return (crt0.o):
+shlax3 (aslax3.o):
+shlax4 (aslax4.o):
+shlaxy (shl.o):
+sp (zeropage.o):
+    subysp.o                  runtime/subysp.s(9)
+    subeqsp.o                 runtime/subeqsp.s(8)
+    staxsp.o                  runtime/staxsp.s(8)
+    pushwsp.o                 runtime/pushwsp.s(8)
+    pushax.o                  runtime/pushax.s(8)
+    pusha.o                   runtime/pusha.s(8)
+    popptr1.o                 runtime/popptr1.s(9)
+    popa.o                    runtime/popa.s(8)
+    or.o                      runtime/or.s(10)
+    memset.o                  common/memset.s(20)
+    memcpy.o                  common/memcpy.s(15)
+    ldaxsp.o                  runtime/ldaxsp.s(8)
+    incsp2.o                  runtime/incsp2.s(8)
+    incsp1.o                  runtime/incsp1.s(8)
+    icmp.o                    runtime/icmp.s(9)
+    decsp2.o                  runtime/decsp2.s(8)
+    decsp1.o                  runtime/decsp1.s(8)
+    crt0.o                    /home/rax/Programs/cc65/asminc/zeropage.inc(11)
+    addysp.o                  runtime/addysp.s(8)
+    addeqsp.o                 runtime/addeqsp.s(8)
+    main.o                    ./src/main.s(10)
+sreg (zeropage.o):
+    udiv.o                    runtime/udiv.s(10)
+    mod.o                     runtime/mod.s(12)
+    icmp.o                    runtime/icmp.s(9)
+    main.o                    ./src/main.s(10)
+stax0sp (staxsp.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+staxysp (staxsp.o):
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+    main.o                    ./src/main.s(11070)
+subeq0sp (subeqsp.o):
+subeqysp (subeqsp.o):
+    main.o                    ./src/main.s(11070)
+subysp (subysp.o):
+    main.o                    ./src/main.s(11070)
+tmp1 (zeropage.o):
+    shl.o                     runtime/shl.s(16)
+    shelp.o                   runtime/shelp.s(12)
+    or.o                      runtime/or.s(10)
+    mod.o                     runtime/mod.s(12)
+    incaxy.o                  runtime/incaxy.s(8)
+    div.o                     runtime/div.s(12)
+    decaxy.o                  runtime/decaxy.s(8)
+    asr.o                     runtime/asr.s(16)
+    aslax4.o                  runtime/aslax4.s(8)
+    aslax3.o                  runtime/aslax3.s(8)
+tmp2 (zeropage.o):
+    shelp.o                   runtime/shelp.s(12)
+    div.o                     runtime/div.s(12)
+tmp3 (zeropage.o):
+tmp4 (zeropage.o):
+tosaslax (shl.o):
+tosasrax (asr.o):
+tosdiva0 (div.o):
+    main.o                    ./src/main.s(11070)
+tosdivax (div.o):
+tosicmp (icmp.o):
+    main.o                    ./src/main.s(11070)
+tosicmp0 (icmp.o):
+    main.o                    ./src/main.s(11070)
+tosmoda0 (mod.o):
+    main.o                    ./src/main.s(11070)
+tosmodax (mod.o):
+tosora0 (or.o):
+    main.o                    ./src/main.s(11070)
+tosorax (or.o):
+tosshlax (shl.o):
+tosudiva0 (udiv.o):
+tosudivax (udiv.o):
+udiv16 (udiv.o):
+    shelp.o                   runtime/shelp.s(11)
+zerobss (zerobss.o):
+    crt0.o                    apple2/crt0.s(11)
+
